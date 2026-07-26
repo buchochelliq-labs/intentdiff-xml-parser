@@ -1,0 +1,14 @@
+# Bundled parser metadata for the IntentDiff language-info API.
+# Plugin code exposes this data; the host still owns trust and provenance.
+
+[plugin]
+author = IntentDiff
+plugin_version = 0.1.0
+last_updated = 2026-05-19
+
+[language.xml]
+language_name = XML
+language_short_name = XML
+monaco_language = xml
+default_filename = data.xml
+language_file_extensions = .xml
